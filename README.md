@@ -3,3 +3,5 @@
 
 如果使用
 点击开启暴走模式，点击一下，步数➕10000步。
+
+(http://www.cnblogs.com/lancidie/archive/2011/08/05/2128318.html)
